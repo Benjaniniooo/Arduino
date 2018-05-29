@@ -6,7 +6,7 @@ int led5 = 9;
 int led6 = 10;
 int led7 = 11;
 int led8 = 12;
-int Zahl = 1;
+int Zahdddddl = 1;
 
 
 
